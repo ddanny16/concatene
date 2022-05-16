@@ -29,4 +29,5 @@ console.log(str4.search("locate"));
 console.log(str4.search("locate"));
 console.log(text2.includes("worlds"))
 console.log(text3.startsWith("Hello worlds"))
+...
 
