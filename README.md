@@ -16,3 +16,4 @@ console.log(numbers[2])
 numbers[2] = 1000
 console.log(numbers[2])
 console.log(numbers)
+console.log(imut[4])
