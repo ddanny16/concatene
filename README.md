@@ -20,3 +20,5 @@ console.log(imut[4])
 imut[4] ='Z'
 console.log(imut[4])
 console.log(trimmable.trim())
+trim())
+console.log(padded)
