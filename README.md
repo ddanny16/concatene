@@ -14,3 +14,4 @@ let text3 = "Hello world, welcome to the universe.";console.log(a + " " + b)
 console.log(c)
 console.log(numbers[2])
 numbers[2] = 1000
+console.log(numbers[2])
